@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://rezerv.mk"><img src="https://rezerv.mk/uploads/files/cdc2bcc191fc8b1e1cbe3381c8290973.png" alt="REZERV official logo — fitness management software" width="380" /></a>
