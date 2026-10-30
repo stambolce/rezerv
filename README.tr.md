@@ -1,36 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://rezerv.mk"><img src="https://rezerv.mk/uploads/files/cdc2bcc191fc8b1e1cbe3381c8290973.png" alt="REZERV official logo — fitness management software" width="380" /></a>
+# REZERV
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://rezerv.mk"><img src="assets/rezerv-hero.svg" alt="REZERV fitness business operating system — membership management, online bookings, billing, class scheduling and analytics" width="100%" /></a>
+<img src="https://rezerv.mk/uploads/files/cdc2bcc191fc8b1e1cbe3381c8290973.png" alt="REZERV — ürün görsel sunumu" width="380" />
 
-<br/>
+<img src="assets/rezerv-hero.svg" alt="REZERV — ürün görsel sunumu" width="100%" />
+
+**Daha az idare. Üyelere daha çok zaman.**
 
 [![Official Website](https://img.shields.io/badge/REZERV.MK-OFFICIAL_WEBSITE-20C968?style=for-the-badge&labelColor=101614)](https://rezerv.mk)
 [![Fitness Software](https://img.shields.io/badge/FITNESS-BUSINESS_OS-101614?style=for-the-badge)](https://rezerv.mk)
 [![Built by PROCESS IN](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-20C968?style=for-the-badge&labelColor=101614)](https://processin.mk)
 
-# REZERV — Fitness Business Management Software
-
-
-
-
-
-[**Daha az idare. Üyelere daha çok zaman.**](https://processin.mk)
-
-### Daha az idare. Üyelere daha çok zaman.
-
 **LIVE**
 
 </div>
-
----
-
-
 
 ## Fitness işletmesinin işletim sistemi
 
@@ -91,7 +77,7 @@ Salon, stüdyo, Pilates, yoga, ders rezervasyonu, üyelik veya antrenör takvimi
 |---|---|
 | Ürün | REZERV |
 | Resmî site | [rezerv.mk](https://rezerv.mk) |
-| Kategori | Fitness yönetim SaaS |
+| Kategori | Fitness üyelik, rezervasyon ve operasyonları |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |

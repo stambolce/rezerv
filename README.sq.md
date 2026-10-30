@@ -1,36 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://rezerv.mk"><img src="https://rezerv.mk/uploads/files/cdc2bcc191fc8b1e1cbe3381c8290973.png" alt="REZERV official logo — fitness management software" width="380" /></a>
+# REZERV
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://rezerv.mk"><img src="assets/rezerv-hero.svg" alt="REZERV fitness business operating system — membership management, online bookings, billing, class scheduling and analytics" width="100%" /></a>
+<img src="https://rezerv.mk/uploads/files/cdc2bcc191fc8b1e1cbe3381c8290973.png" alt="REZERV — prezantim vizual i produktit" width="380" />
 
-<br/>
+<img src="assets/rezerv-hero.svg" alt="REZERV — prezantim vizual i produktit" width="100%" />
+
+**Më pak administrim. Më shumë kohë për anëtarët.**
 
 [![Official Website](https://img.shields.io/badge/REZERV.MK-OFFICIAL_WEBSITE-20C968?style=for-the-badge&labelColor=101614)](https://rezerv.mk)
 [![Fitness Software](https://img.shields.io/badge/FITNESS-BUSINESS_OS-101614?style=for-the-badge)](https://rezerv.mk)
 [![Built by PROCESS IN](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-20C968?style=for-the-badge&labelColor=101614)](https://processin.mk)
 
-# REZERV — Fitness Business Management Software
-
-
-
-
-
-[**Më pak administrim. Më shumë kohë për anëtarët.**](https://processin.mk)
-
-### Më pak administrim. Më shumë kohë për anëtarët.
-
 **LIVE**
 
 </div>
-
----
-
-
 
 ## Sistemi operativ i biznesit të fitnesit
 
@@ -91,7 +77,7 @@ Nëse kërkoni softuer palestre, studioje, Pilates, joga, rezervime klasash, men
 |---|---|
 | Produkti | REZERV |
 | Faqja zyrtare | [rezerv.mk](https://rezerv.mk) |
-| Kategoria | SaaS për menaxhim fitnesi |
+| Kategoria | Anëtarësi, rezervime dhe operacione fitnesi |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
